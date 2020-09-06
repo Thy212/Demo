@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ALS-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ALS_StyleGuide_DesignElements" transform="translate(-612.000000, -1321.000000)">
+            <g id="Group-14" transform="translate(613.000000, 1322.000000)">
+                <circle id="Oval" stroke="#2d3349" stroke-width="2" cx="35" cy="35" r="35"></circle>
+                <path d="M43.82,18.24 L43.82,23.64 L40.62,23.64 C39.7568923,23.5298522 38.8884811,23.7998624 38.24,24.38 C37.7841255,25.019084 37.5649174,25.7969191 37.62,26.58 L37.62,30.44 L43.62,30.44 L42.82,36.44 L37.64,36.44 L37.64,52 L31.38,52 L31.38,36.5 L26.18,36.5 L26.18,30.5 L31.4,30.5 L31.4,26 C31.2412355,23.7957954 32.0013282,21.6241019 33.5,20 C35.0396019,18.5970726 37.08078,17.8758083 39.16,18 C40.7170073,17.9725556 42.27405,18.0527467 43.82,18.24 Z" id="Shape" fill="#2d3349" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
